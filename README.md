@@ -1,2 +1,3 @@
 # MundoMobileLegends
-Una página web con información para la comunidad de MLBB. 
+La página Mundo Mobile Legends fue pensada para darle un espacio a la comunidad del juego desarrollado por Moonton, Mobile Legends:Bang Bang, dónde encontrará información actualizada sobre nuevos héroes, eventos especiales, apariencias exclusivas, modificaciones en la jugabilidad, entre otras noticias referidas al juego que se encuentra disponible para dispositivos móviles con alta capacidad de RAM. 
+El formato de la página se ha pensado de una forma que sea sencilla para la interacción de los usuarios y vistosa para los mismos. Se usó linear gradient para darle una buena visión en ge
